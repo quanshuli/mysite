@@ -1,0 +1,102 @@
+2021-08-06 09:26:15.060 AEST [5296] LOG:  starting PostgreSQL 12.2, compiled by Visual C++ build 1916, 64-bit
+2021-08-06 09:26:15.065 AEST [5296] LOG:  listening on IPv6 address "::1", port 5432
+2021-08-06 09:26:15.066 AEST [5296] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-08-06 09:26:15.180 AEST [12776] LOG:  database system was shut down at 2021-08-06 09:24:43 AEST
+2021-08-06 09:26:15.236 AEST [5296] LOG:  database system is ready to accept connections
+2021-08-06 09:53:27.301 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-06 09:53:31.993 AEST [11980] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-06 10:46:59.034 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-06 10:47:03.705 AEST [6120] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-06 18:17:11.600 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-06 18:17:16.284 AEST [16720] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-06 18:34:42.049 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-06 18:34:46.736 AEST [4424] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-06 20:03:13.878 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-06 20:03:18.549 AEST [13208] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 08:18:28.271 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 08:18:32.942 AEST [4264] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 08:19:58.125 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 08:20:02.796 AEST [12804] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 09:55:30.052 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 09:55:34.723 AEST [13280] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 11:13:01.993 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 11:13:06.679 AEST [8348] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 12:13:03.467 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 12:13:08.625 AEST [6260] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 12:20:34.180 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 12:20:38.862 AEST [16380] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 13:21:05.263 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 13:21:09.934 AEST [16492] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 13:23:05.282 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 13:23:09.953 AEST [932] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 13:24:35.422 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 13:24:40.093 AEST [15516] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 13:28:05.373 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 13:28:10.044 AEST [12860] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 13:31:35.692 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 13:31:40.363 AEST [17300] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 15:12:37.934 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 15:12:42.869 AEST [16920] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 15:34:08.159 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 15:34:12.830 AEST [11696] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 15:55:08.695 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 15:55:13.366 AEST [3248] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 16:05:08.958 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 16:05:13.630 AEST [14420] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 16:20:09.264 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 16:20:13.935 AEST [12048] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 16:43:40.718 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 16:43:45.389 AEST [13012] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 16:49:10.065 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 16:49:14.736 AEST [8172] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 16:53:41.077 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 16:53:45.779 AEST [13408] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 18:23:25.207 AEST [6516] LOG:  could not rename temporary statistics file "pg_stat_tmp/global.tmp" to "pg_stat_tmp/global.stat": Permission denied
+2021-08-07 18:23:29.878 AEST [16376] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2021-08-07 21:26:26.484 AEST [11112] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2021-08-07 21:26:26.507 AEST [5384] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2021-08-07 21:26:29.617 AEST [5296] LOG:  background worker "logical replication launcher" (PID 2592) was terminated by exception 0xC000013A
+2021-08-07 21:26:29.617 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:29.617 AEST [5296] LOG:  terminating any other active server processes
+2021-08-07 21:26:29.618 AEST [15516] WARNING:  terminating connection because of crash of another server process
+2021-08-07 21:26:29.618 AEST [15516] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2021-08-07 21:26:29.618 AEST [15516] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2021-08-07 21:26:29.633 AEST [5296] LOG:  statistics collector process (PID 6516) was terminated by exception 0xC000013A
+2021-08-07 21:26:29.633 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:29.634 AEST [5296] LOG:  all server processes terminated; reinitializing
+2021-08-07 21:26:29.668 AEST [8520] LOG:  database system was interrupted; last known up at 2021-08-07 15:27:07 AEST
+2021-08-07 21:26:30.524 AEST [8520] LOG:  database system was not properly shut down; automatic recovery in progress
+2021-08-07 21:26:30.553 AEST [8520] LOG:  redo starts at 0/17AC230
+2021-08-07 21:26:30.553 AEST [8520] LOG:  invalid record length at 0/17AC318: wanted 24, got 0
+2021-08-07 21:26:30.553 AEST [8520] LOG:  redo done at 0/17AC2E0
+2021-08-07 21:26:30.777 AEST [5296] LOG:  database system is ready to accept connections
+2021-08-07 21:26:31.306 AEST [5296] LOG:  background worker "logical replication launcher" (PID 12100) was terminated by exception 0xC000013A
+2021-08-07 21:26:31.306 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:31.306 AEST [5296] LOG:  terminating any other active server processes
+2021-08-07 21:26:31.307 AEST [14712] WARNING:  terminating connection because of crash of another server process
+2021-08-07 21:26:31.307 AEST [14712] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2021-08-07 21:26:31.307 AEST [14712] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2021-08-07 21:26:31.321 AEST [5296] LOG:  statistics collector process (PID 14716) was terminated by exception 0xC000013A
+2021-08-07 21:26:31.321 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:31.336 AEST [5296] LOG:  all server processes terminated; reinitializing
+2021-08-07 21:26:31.370 AEST [14624] LOG:  database system was interrupted; last known up at 2021-08-07 21:26:30 AEST
+2021-08-07 21:26:32.064 AEST [14624] LOG:  database system was not properly shut down; automatic recovery in progress
+2021-08-07 21:26:32.084 AEST [14624] LOG:  invalid record length at 0/17AC390: wanted 24, got 0
+2021-08-07 21:26:32.084 AEST [14624] LOG:  redo is not required
+2021-08-07 21:26:32.248 AEST [5296] LOG:  database system is ready to accept connections
+2021-08-07 21:26:33.421 AEST [5296] LOG:  background worker "logical replication launcher" (PID 13200) was terminated by exception 0xC000013A
+2021-08-07 21:26:33.421 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:33.421 AEST [5296] LOG:  terminating any other active server processes
+2021-08-07 21:26:33.422 AEST [4496] WARNING:  terminating connection because of crash of another server process
+2021-08-07 21:26:33.422 AEST [4496] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2021-08-07 21:26:33.422 AEST [4496] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2021-08-07 21:26:33.439 AEST [5296] LOG:  statistics collector process (PID 12412) was terminated by exception 0xC000013A
+2021-08-07 21:26:33.439 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:33.439 AEST [5296] LOG:  all server processes terminated; reinitializing
+2021-08-07 21:26:33.481 AEST [144] LOG:  database system was interrupted; last known up at 2021-08-07 21:26:32 AEST
+2021-08-07 21:26:33.938 AEST [5296] LOG:  startup process (PID 144) was terminated by exception 0xC000013A
+2021-08-07 21:26:33.938 AEST [5296] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2021-08-07 21:26:33.938 AEST [5296] LOG:  aborting startup due to startup process failure
+^C
